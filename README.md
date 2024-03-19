@@ -14,7 +14,9 @@ This webpage was created with the intent to use as a professional portfolio. My 
 
 ## Deployment
 
-Provided as a link here - [Module 01](Your_REPO_LINK)
+Provided as a link here - [Repo](https://github.com/ThStranick15/professional_portfolio)
+-  [Site](https://thstranick15.github.io/professional_portfolio/)
+
 
 ## Usage
 
