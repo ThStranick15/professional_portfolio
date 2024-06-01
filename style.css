@@ -167,11 +167,7 @@ main section article figure:hover:after {
     background: rgba(250, 250, 250, .4);
 }
 
-#proj1img{
-    max-width:100%;
-}
-
-#proj2img, #proj3img{
+#proj1img, #proj2img, #proj3img{
     max-width:100%;
 }
 
@@ -198,11 +194,7 @@ main section article figure:hover:after {
         grid-template-columns: 1fr;
     }
     
-    #my-work #main-article{
-        grid-column: 1/2;
-    }
-
-    #my-work .secondary-article{
+    #my-work #main-article, #my-work .secondary-article{
         grid-column: 1/2;
     }
 }
@@ -212,18 +204,11 @@ main section article figure:hover:after {
         flex-direction: column;
     }
 
-    main section#hero figure{
-        max-width: 70%;
-    }
-    main section#hero figcaption{
+    main section#hero figure, main section#hero figcaption{
         max-width: 70%;
     }
 
-    main section #main-article{
-        flex-direction: column;
-    }
-
-    main section .secondary-article{
+    main section #main-article, main section .secondary-article{
         flex-direction: column;
     }
 
